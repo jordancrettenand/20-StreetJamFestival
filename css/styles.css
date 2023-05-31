@@ -9,15 +9,36 @@ img {
   max-width: 100%;
 }
 
+
+
+
+
 @font-face {
-  font-family: 'Noteworthy Light';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Noteworthy Light'), url('Noteworthy-Lt.woff') format('woff');
-  }
+  font-family: "Noteworthy";
+  src: url("https://www.cufonfonts.com/download/font/noteworthy");
+}
+ 
+@font-face {
+  font-family: "Graffiti City";
+  src: url("https://fontmeme.com/fonts/download/275519/graffiti-city.zip");
+}
+
+h1,
+h2 {
+  font-family: "Graffiti City", serif;
+}
 
 
-  h4 {
-    font-family: 'Noteworthy Light';
-  }
+h4,
+p {
+  font-family: 'Noteworthy', Arial;
+  font-weight: bold;
+}
 
+
+
+
+
+
+
+  
