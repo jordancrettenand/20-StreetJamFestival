@@ -1,7 +1,7 @@
 body {
   max-width: 375px;
   margin: auto;
-  background: #ddd;
+  background: gray;
 }
 
 img {
@@ -81,9 +81,15 @@ h4 {
   text-align: center;
 }
 
+.banniere {
+  margin-top: 90px;
+  margin-bottom: 20px;
+}
+
 .invite {
   margin: auto;
 }
+
 
 .hero {
   background: 0%;
@@ -94,6 +100,7 @@ h4 {
   padding: 50px;
   text-align: left;
 }
+
 
 hr {
   height: 1px;
@@ -113,15 +120,11 @@ hr {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  padding: 0px;
+  padding: 20px;
+  background: red;
 }
 
-.element {
-  color: white;
-  padding: 8px;
-  background: violet;
 
-}
 
 
 
@@ -132,4 +135,24 @@ hr {
 
 }
 
+
+
+
+
+.container-reseaux {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0px;
+}
+
+.element-reseaux {
+  color: blue;
+  padding: 8px;
+  background: burlywood;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
 
