@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334 35.8">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #29a8df;
+      }
+
+      .cls-4 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-3 {
+        font-family: Noteworthy-Bold, Noteworthy;
+        font-size: 24px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <text class="cls-3" transform="translate(111.86 25.36)"><tspan x="0" y="0">st</tspan><tspan class="cls-1" x="20.73" y="0">r</tspan><tspan x="29.37" y="0">e</tspan><tspan class="cls-1" x="40.77" y="0">e</tspan><tspan x="51.21" y="0">t </tspan><tspan class="cls-4" x="65.13" y="0">f</tspan><tspan x="73.26" y="0">ood</tspan></text>
+      <rect class="cls-2" y="16.34" width="102.64" height="4"/>
+      <rect class="cls-2" x="231.54" y="16.34" width="102.46" height="4"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 333.39 34.88">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #29a8df;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4 {
+        font-family: Noteworthy-Bold, Noteworthy;
+        font-size: 24px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <text class="cls-4" transform="translate(87.37 24.44)"><tspan x="0" y="0">i</tspan><tspan class="cls-2" x="4.89" y="0">n</tspan><tspan class="cls-9" x="17.19" y="0">v</tspan><tspan class="cls-5" x="29.37" y="0">i</tspan><tspan x="33.03" y="0">té d’ho</tspan><tspan class="cls-7" x="99.45" y="0">n</tspan><tspan class="cls-6" x="112.47" y="0">ne</tspan><tspan class="cls-8" x="136.95" y="0">u</tspan><tspan class="cls-1" x="148.68" y="0">r</tspan></text>
+      <rect class="cls-3" y="16.34" width="77.54" height="4"/>
+      <rect class="cls-3" x="254.88" y="16.34" width="78.51" height="4"/>
+    </g>
+  </g>
+</svg>
