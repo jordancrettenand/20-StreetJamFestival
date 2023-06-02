@@ -26,7 +26,45 @@ img {
 h1,
 h2 {
   font-family: "Graffiti City", serif;
+  margin: 0;
+  padding: 8px;
+  font-size: 20px;
+  color: orange;
 }
+
+h1 {
+  font-size: 40px;
+}
+
+.container-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: #57bb6b;
+  padding: 13px 26px;
+}
+
+.navigation {
+  text-decoration: none;
+  font-family: "Noteworthy", Arial;
+  color: red;
+  font-size: 17px;  
+}
+
+.menu {
+  background: black;
+  padding: 12px;
+}
+
+.main {
+  background: pink;
+  padding: 15px;
+}
+
+
+
+
+
 
 
 h4,
@@ -43,6 +81,20 @@ h4 {
   text-align: center;
 }
 
+.invite {
+  margin: auto;
+}
+
+.hero {
+  background: 0%;
+  background-image: url(file:///Users/jordan/Desktop/PRATIQUE%20PRO%20EIKON/WEB/20-StreetJamFestival/img/graf-jaune.png);
+  background-position: center;
+  background-size: cover;
+  color: #000;
+  padding: 50px;
+  text-align: left;
+}
+
 hr {
   height: 1px;
   background-color: #000;
@@ -53,13 +105,31 @@ hr {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 9px;
   color: #000;
+  
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0px;
+}
+
+.element {
+  color: white;
+  padding: 8px;
+  background: violet;
 
 }
+
+
 
 
 
 .reseaux {
   max-width: 30px;
-  display: flex;
-  flex-direction: row;
+
 }
+
+
