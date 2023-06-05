@@ -29,27 +29,15 @@ h2 {
   margin: 0;
   padding: 8px;
   font-size: 20px;
-  color: orange;
+  color: #D24F4F;
 }
 
 h1 {
   font-size: 40px;
 }
 
-.container-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  background: #57bb6b;
-  padding: 13px 26px;
-}
 
-.navigation {
-  text-decoration: none;
-  font-family: "Noteworthy", Arial;
-  color: red;
-  font-size: 17px;  
-}
+
 
 .menu {
   background: black;
@@ -57,7 +45,7 @@ h1 {
 }
 
 .main {
-  background: pink;
+  background: white;
   padding: 15px;
 }
 
@@ -68,9 +56,11 @@ h1 {
 
 
 h4,
-p {
+p,
+li {
   font-family: 'Noteworthy', Arial;
   font-weight: bold;
+  color: #000;
 }
 
 h1,
@@ -82,8 +72,8 @@ h4 {
 }
 
 .banniere {
-  margin-top: 90px;
-  margin-bottom: 20px;
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
 
 .invite {
@@ -91,27 +81,18 @@ h4 {
 }
 
 
-.hero {
-  background: 0%;
-  background-image: url(file:///Users/jordan/Desktop/PRATIQUE%20PRO%20EIKON/WEB/20-StreetJamFestival/img/graf-jaune.png);
-  background-position: center;
-  background-size: cover;
-  color: #000;
-  padding: 50px;
-  text-align: left;
-}
 
 
 hr {
   height: 1px;
-  background-color: #000;
+  background-color: #D24F4F;
   border: none;
 }
 
 .credit {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 9px;
-  color: #000;
+  color: #D24F4F;
   
 }
 
@@ -119,12 +100,14 @@ hr {
 .container {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
-  padding: 20px;
-  background: red;
+  justify-content: space-between;
+  padding: 28px;
+  background: #000;
 }
 
-
+.image {
+  max-width: 90px;
+}
 
 
 
@@ -132,7 +115,7 @@ hr {
 
 .reseaux {
   max-width: 30px;
-
+  
 }
 
 
@@ -142,8 +125,9 @@ hr {
 .container-reseaux {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
   padding: 0px;
+  text-align: center;
 }
 
 .element-reseaux {
@@ -156,3 +140,40 @@ hr {
   align-items: center;
 }
 
+
+
+
+.navigation {
+  text-decoration: none;
+  font-family: "Noteworthy", Arial;
+  color: #D24F4F;
+  font-size: 17px;  
+}
+
+
+
+.menu-row {
+  display: flex;
+}
+
+.menu-column {
+  flex: 1;
+  text-align: center;
+  border: 2px solid black;
+  background: white;
+}
+
+.menu-column1 {
+  flex: 2;
+  text-align: center;
+  border: 2px solid black;
+  background: white;
+}
+
+strong {
+  color: #D24F4F;
+}
+
+.footer {
+  color: #D24F4F;
+}
