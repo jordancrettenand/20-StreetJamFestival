@@ -108,6 +108,11 @@ h4 {
   max-width: 105px;
 }
 
+.tag {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
 .banniere {
   margin-top: 60px;
   margin-bottom: 30px;
