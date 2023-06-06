@@ -42,12 +42,12 @@ h1 {
 
 .menu {
   background: black;
-  padding: 12px;
+  padding: 20px;
 }
 
 .main {
   background: white;
-  padding: 15px;
+  padding: 20px;
 }
 
 
@@ -102,12 +102,12 @@ hr {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 28px;
+  padding: 15px;
   background: #000;
 }
 
 .image {
-  max-width: 90px;
+  max-width: 105px;
 }
 
 
@@ -115,7 +115,7 @@ hr {
 
 
 .reseaux {
-  max-width: 30px;
+  max-width: 40px;
   
 }
 
@@ -127,20 +127,9 @@ hr {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  padding: 0px;
+  padding: 25px;
   text-align: center;
 }
-
-.element-reseaux {
-  color: blue;
-  padding: 8px;
-  background: burlywood;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-}
-
 
 
 
@@ -177,4 +166,12 @@ strong {
 
 .footer {
   color: #D24F4F;
+  text-align: center;
+}
+
+.tact {
+  font-weight: 100;
+  color: #D24F4F;
+  text-align: center;
+font-size: 27px;
 }
