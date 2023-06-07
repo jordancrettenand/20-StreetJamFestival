@@ -9,10 +9,6 @@ img {
   max-width: 100%;
 }
 
-
-
-
-
 @font-face {
   font-family: "Noteworthy";
   src: url("https://www.cufonfonts.com/download/font/noteworthy");
@@ -20,18 +16,9 @@ img {
  
 @font-face {
   font-family: "Graffiti City";
-  src: url("https://www.cufonfonts.com/download/font/graffiti-city");
+  src: url("../fonts/Graffiti\ City.otf");
 }
  
-
-
-
-
-
-
-
-
-
 h1,
 h2 {
   font-family: "Graffiti City", Arial ;
